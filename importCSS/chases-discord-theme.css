@@ -1,4 +1,4 @@
-// My modifications from Nocturnal:
+/* My modifications from Nocturnal: */
 
 :root {
 	--backgroundCode: #000 !important;
@@ -17,7 +17,7 @@
     background-color: #000 !important;
 }
 
-// BEGIN Nocturnal v2.9 Circle:
+/* BEGIN Nocturnal v2.9 Circle: */
 
 [role="img"][aria-label]:before {
 	content: "";
