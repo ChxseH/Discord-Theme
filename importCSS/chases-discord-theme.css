@@ -1,5 +1,6 @@
 /* My modifications from Nocturnal: */
 
+/* Basic Application Colors */
 :root {
 	--backgroundCode: #000 !important;
 	--backgroundCodeLine: #000 !important;
@@ -12,10 +13,23 @@
 	--primary: #949494 !important;
 }
 
-
+/* Streamer Mode Popup */
 .notice-3bPHh-.da-notice.colorStreamerMode-2SJAUN{
     background-color: #000 !important;
 }
+
+/* Settings Info Text */
+div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
+	content: "Theme: Chases Discord Theme" !important;
+	display: block;
+}
+
+/* Discord Watermark */
+.wordmarkWindows-1v0lYD.wordmark-2iDDfm.da-wordmarkWindows.da-wordmark{
+	display: none !important;
+}
+
+
 
 /* BEGIN Nocturnal v2.9 Circle: */
 
