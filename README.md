@@ -12,4 +12,4 @@ Based off of [FlashAL's Nocturnal Circle Edition](https://raw.githubusercontent.
 
 ## Credits:
 * [FlashAL's Nocturnal Circle Edition](https://raw.githubusercontent.com/FlashAL/Nocturnal-discord-theme/master/nocturnal/importCSS/circle_core.css).
-* [GitCDN](https://gitcdn.link/) for supplying the correct headers for the CSS to load into Discord.
+* [raw.githack.com](https://raw.githack.com/) for supplying the correct headers for the CSS to load into Discord.
