@@ -6,7 +6,7 @@ Based off of [FlashAL's Nocturnal Circle Edition](https://raw.githubusercontent.
 ![Screenshot of Chase's Discord Theme in Compact Mode](https://i.imgur.com/P7gp88i.png)
 
 ## Installation:
-* Install [BandagedBD](https://github.com/rauenzi/BBDInstaller/releases/latest).
+* Install [BetterDiscord](https://github.com/BetterDiscord/Installer/releases/latest).
 * Download the [latest release](https://github.com/ChxseH/Discord-Theme/releases/latest) and save to `%appdata%\BetterDiscord\themes`.
 * Enable in Discord User Settings > Themes > Chase's Discord Theme.
 
